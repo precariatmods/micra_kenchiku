@@ -7,6 +7,7 @@ YouTube ショートで公開中
 
 ## 動作環境
 - Python 3.10.11
+- java version "25.0.3" 2026-04-21 LTS
 - Paper Server
 - Geyser-Spigot
 - floodgate-spigot
