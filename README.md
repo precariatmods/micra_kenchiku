@@ -15,3 +15,13 @@ YouTube ショートで公開中
 ## 概要
 
 Python から RCON を利用して Minecraft に建築コマンドを送信しています。
+建築物は座標 (0, 0, 0) を中心として作成しています。
+実行前に十分な空き空間を確保してください。
+私は以下の整地プログラムを利用し、
+X方向 ±200
+Z方向 ±200
+高さ Y=100 までを空間化
+地面をシーランタンブロックで作成
+した状態で実行しています。
+整地プログラム
+https://github.com/precariatmods/micra_kenchiku/blob/main/seichi.py
