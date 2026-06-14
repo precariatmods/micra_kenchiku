@@ -55,6 +55,4 @@ for x in range(-200, 200, 100):
             f"{x2} 0 {z2} "
             f"minecraft:sea_lantern"
         )
-
-        print(cmd)
-        print(mcr.command(cmd))
+        mcr.command(cmd)

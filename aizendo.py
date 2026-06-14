@@ -372,12 +372,6 @@ print("Phase5 2階部分 完了")
 # Phase6 上屋根
 # --------------------------------
 
-import time
-
-def cmd(command):
-    print(command)
-    print(mcr.command(command))
-    time.sleep(0.05)
 
 # =====================
 # 上屋根の芯
@@ -431,12 +425,7 @@ print("Phase6 上屋根 完了")
 # Phase6 上屋根
 # --------------------------------
 
-import time
 
-def cmd(command):
-    print(command)
-    print(mcr.command(command))
-    time.sleep(0.05)
 
 # =====================
 # 上屋根の芯
@@ -486,12 +475,6 @@ cmd("fill -3 29 -3 3 29 3 minecraft:smooth_stone")
 cmd("fill -2 30 -2 2 30 2 minecraft:smooth_stone")
 
 print("Phase6 上屋根 完了")
-import time
-
-def cmd(command):
-    print(command)
-    print(mcr.command(command))
-    time.sleep(0.05)
 
 # 芯棒
 cmd("fill 0 31 0 0 48 0 minecraft:lightning_rod")
