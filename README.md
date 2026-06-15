@@ -30,6 +30,13 @@ Z方向 ±200
 
 https://github.com/precariatmods/micra_kenchiku/blob/main/seichi.py
 
+## 特徴
+
+- 各サンプルは1ファイルで実行可能
+- Python から RCON を利用して Minecraft を操作
+- マインクラフト教育用教材として作成
+
+
 
 ## サンプル一覧
 
