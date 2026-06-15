@@ -12,13 +12,14 @@ YouTube ショートで公開中
 - Geyser-Spigot
 - floodgate-spigot
 - RCON (pip install mctools) で導入
-概要
+
+## 概要
 
 Python から RCON を利用して Minecraft に建築コマンドを送信しています。
 
 建築物は座標 (0, 0, 0) を中心として作成していますので、実行前に整地してください。
 
-私は以下の整地プログラムを利用しています。
+以下の整地プログラムを利用しています。
 
 X方向 ±200
 Z方向 ±200
@@ -28,3 +29,12 @@ Z方向 ±200
 整地プログラム
 
 https://github.com/precariatmods/micra_kenchiku/blob/main/seichi.py
+
+
+## サンプル一覧
+
+| ファイル | 内容 |
+|----------|------|
+| seichi.py | 整地プログラム |
+| roudou.py | 労働センター建築 |
+| aizendo.py | 愛染堂建築 |
