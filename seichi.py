@@ -51,7 +51,7 @@ for x in range(-200, 200, 100):
         z2 = min(z + 99, 200)
 
         cmd = (
-            f"fill {x} 0 {z} "
+            f"fill {x} -2 {z} "
             f"{x2} 0 {z2} "
             f"minecraft:sea_lantern"
         )
