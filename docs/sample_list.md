@@ -15,9 +15,16 @@
 | 9  | houses.py | 家がたくさん| https://youtube.com/shorts/50umS-XSy3c
 | 10 | taiyoshi.py |遊郭建築| https://youtube.com/shorts/0yvcuUrIIzQ
 | 11 | taiyoshi_naname.py | 遊郭建築(改良) |https://youtube.com/shorts/MqaMddz1Ddo
+| 12 | tnthaichi.py | TNT階段 |https://youtube.com/shorts/a9SGDzRWMl4
+| 13 | dotpict.py | ドット絵|https://youtube.com/shorts/KDhgs172rFg
+| 14 | dotpictmove.py | 動くドット絵 |https://youtube.com/shorts/0V95CnlIDsk
+| 15 | Vermeer .py | 名画再現 |https://youtube.com/shorts/-hE2Ho2C-eE
+| 16 | touhu1.py | 豆腐ハウス |https://youtube.com/shorts/s1cM76cui_I
+| 17 | touhu2.py | 大きくなる豆腐ハウス |https://youtube.com/shorts/wM5QiSNCxgM
+| 18 | touhu3.py | 動く豆腐ハウス |https://youtube.com/shorts/Vh2lqD9UcXg
 
 
-| 12 | **.py | NAME |
+
 
 
 ## 備考
