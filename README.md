@@ -39,9 +39,4 @@ https://github.com/precariatmods/micra_kenchiku/blob/main/seichi.py
 
 
 ## サンプル一覧
-
-| ファイル | 内容 |
-|----------|------|
-| seichi.py | 整地プログラム |
-| roudou.py | 労働センター建築 |
-| aizendo.py | 愛染堂建築 |
+https://github.com/precariatmods/micra_kenchiku/blob/main/docs/sample_list.md
