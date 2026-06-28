@@ -14,7 +14,8 @@ cmd = f"fill {0} {1} {0} {30} {15} {30} air"
 mcr.command(cmd)
 
 
+# cmd = f"fill {-20} {0} {-20} {20} {0} {20} minecraft:sea_lantern"
 
-cmd = f"fill {-20} {0} {-20} {20} {0} {20} minecraft:sea_lantern"
+cmd = f"fill {-20} {0} {-20} {20} {0} {20} minecraft:stone"
 mcr.command(cmd)
 

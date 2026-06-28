@@ -54,5 +54,6 @@ for x in range(-200, 200, 100):
             f"fill {x} -2 {z} "
             f"{x2} 0 {z2} "
             f"minecraft:sea_lantern"
+            #f"minecraft:dirt"
         )
         mcr.command(cmd)
