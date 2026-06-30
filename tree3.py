@@ -3,7 +3,7 @@ from mctools import RCONClient
 import time
 
 mcr = RCONClient("192.168.1.10", port=25575)
-mcr.login("pass")
+mcr.login("サーバーで設定したRCONパスワード")
 
 def cmd(command):
     print(command)

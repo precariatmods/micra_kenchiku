@@ -1,7 +1,7 @@
 from mctools import RCONClient
 
 mcr = RCONClient("192.168.1.10", port=25575)
-mcr.login("pass")
+mcr.login("サーバーで設定したRCONパスワード")
 
 
 for i in range(0, 100, 1):

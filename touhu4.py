@@ -3,7 +3,7 @@ import time
 import random
 
 mcr = RCONClient("192.168.1.10", port=25575)
-mcr.login("pass")
+mcr.login("サーバーで設定したRCONパスワード")
 
 def cmd(command):
     mcr.command(command)

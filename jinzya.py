@@ -3,7 +3,7 @@ import math
 import time
 
 mcr = RCONClient("192.168.1.10", port=25575)
-mcr.login("pass")
+mcr.login("サーバーで設定したRCONパスワード")
 
 def block(x, y, z, b):
     mcr.command(f"setblock {x} {y} {z} {b}")

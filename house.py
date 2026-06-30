@@ -3,7 +3,7 @@ import time
 
 
 mcr = RCONClient("192.168.1.10", port=25575)
-mcr.login("pass")
+mcr.login("サーバーで設定したRCONパスワード")
 
 BASE_X = 0
 BASE_Y = 0
@@ -14,7 +14,7 @@ def cmd(mcr, c):
     time.sleep(0.02)
 
 with RCONClient("192.168.1.10", port=25575) as mcr:
-    mcr.login("pass")
+    mcr.login("サーバーで設定したRCONパスワード")
 
     x0 = BASE_X
     y0 = BASE_Y
