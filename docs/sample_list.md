@@ -29,6 +29,7 @@
 | 23 | tohuhouse.py | 豆腐ハウス飾る | https://youtube.com/shorts/gQqfAoamzFI |
 | 24 | tohuhouse.py | 豆腐ハウス伸びる | https://youtube.com/shorts/OC8j_YnNXcg |
 | 25 | tohuhouse.py | 豆腐ハウスの街 | https://youtube.com/shorts/d8s_uud032g |
+| 26 | rising_rail.py | 上に伸びるレール | https://youtube.com/shorts/Nz98xJb58AU |
 
 ## 備考
 
